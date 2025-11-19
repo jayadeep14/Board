@@ -1,6 +1,6 @@
 # Custom Esp32 Board
 
-![1000045635](https://github.com/user-attachments/assets/a4cffd2b-9a97-4418-8d4d-e507c1ce0bd2)
+
 ![1000045632](https://github.com/user-attachments/assets/762b2d5e-a92d-494d-9bed-221d95d36563)
 
 
@@ -22,3 +22,4 @@ Integrated charger IC with status indicators
 Supports single-cell Li-Ion/LiPo batteries
 
 -Compact Breakout Form Factor
+![1000045967](https://github.com/user-attachments/assets/5bb54835-2f3c-415a-a72d-2ff823f03cc3)
