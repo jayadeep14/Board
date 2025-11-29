@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Comment,Value,Footprint,Mid X,Mid Y,Rotation,Layer
 "C13","100uF","CP_EIA-7343-31_Kemet-D",-195.000000,-123.500000,-90.000000,bottom
 "C18","1uF","C_0603_1608Metric",-170.522500,-86.260000,-90.000000,bottom
 "C19","4.7uF","C_0603_1608Metric",-173.032500,-86.260000,-90.000000,bottom
